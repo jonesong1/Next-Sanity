@@ -1,3 +1,17 @@
+# Next.js Project - Personal Website Tutorial
+
+* Timothy Jones Ong
+
+This project is using Next.js, Sanitoy.io, TailwindCss, and TypeScript
+* Next.js 13
+* Using Sanity studio
+* Groq query language
+* Using TailwindCss
+
+# Credits
+
+This tutorial was taken from freeCodeCamp.org. Watch the [video tutorial](https://www.youtube.com/watch?v=OcTPaUfay5I).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
